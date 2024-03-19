@@ -8,6 +8,6 @@ public class MoonController {
 	
 	@GetMapping
 	public String four() {
-		return "30 수정 두번했지롱";
-}
+		return "30 !!!!!!!!!수정 두번했지롱";
+	}
 }
