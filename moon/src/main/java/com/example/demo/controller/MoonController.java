@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MoonController {
 	
-	@GetMapping
+	@GetMapping("/moon")
 	public String four() {
 		return "20 !!!!!!!!!수정 두번했지롱";
 }
