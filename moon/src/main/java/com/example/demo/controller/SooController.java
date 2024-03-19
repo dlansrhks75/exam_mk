@@ -10,5 +10,5 @@ public class SooController {
 	public String Soo() {
 		return "Soo";
 	}
-
+ 
 }
