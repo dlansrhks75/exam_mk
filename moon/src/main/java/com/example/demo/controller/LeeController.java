@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class LeeController {
 
 	@GetMapping("/lee")
-	public String lee() {
+	public String lee() { 
 		return "나다";
 	}
 }
