@@ -8,6 +8,6 @@ public class MoonController {
 	
 	@GetMapping("/moon")
 	public String four() {
-		return "30 집에 가자"; 
+		return "30 집에 가자!!!"; 
 	}
 }
