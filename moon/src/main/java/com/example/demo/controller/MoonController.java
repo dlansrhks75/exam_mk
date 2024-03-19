@@ -9,5 +9,5 @@ public class MoonController {
 	@GetMapping
 	public String four() {
 		return "30 집에 가자"; 
-}
+	}
 }
